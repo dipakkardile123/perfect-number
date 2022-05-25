@@ -8,7 +8,7 @@ for (var a = 2; a <= 10000; a++) {
     b++;
   }
   if (total == a) {
-    console.log(a, "is perfect number");
+    console.log(a, "is a perfect number");
   } else {
    // console.log(a, "is not perfect number");
   }
